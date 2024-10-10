@@ -1,0 +1,41 @@
+body {
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 50px;
+  margin: 2rem;
+}
+.box-container {
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  text-align: center;
+  justify-content: center;
+}
+h2 {
+  text-align: center;
+  justify-content: center;
+}
+.red {
+  background-color: #d95980;
+}
+.yellow {
+  background-color: #e7d97f;
+}
+.green {
+  background-color: #63aac0;
+}
+.blue {
+  background-color: #819ff9;
+}
+.flash {
+  background-color: white;
+}
+.userflash {
+  background-color: green;
+}
